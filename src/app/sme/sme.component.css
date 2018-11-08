@@ -1,0 +1,27 @@
+.sme{
+    
+    display: flex;
+    padding: 15px;
+    /* flex-direction: column; */
+    /* justify-content: right; */
+ }
+ 
+ .sign-in{
+     width: 40vw;
+     
+     
+ }
+ 
+ .sign-up{
+     width: 40vw;
+     
+ }
+ 
+ .space{
+     width: 20vw;
+ }
+ 
+ .heading
+ {
+     text-align: center;
+ }
